@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="echarts_ssmdatadisplay:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="echarts_ssm-datadisplay.war">
+      <element id="artifact" artifact-name="echarts_ssmdatadisplay:war exploded" />
+    </root>
+  </artifact>
+</component>
